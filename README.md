@@ -1,6 +1,12 @@
 # projetojpa-aula-back-end
 Projeto conduzido na aula de Back-end utilizando o Spring boot com JPA
 
+Dependências: 
+- Spring WEB
+- Spring Data JPA
+- Spring Boot DevTools
+- H2 Database
+
 
 ## Visão Geral
 
