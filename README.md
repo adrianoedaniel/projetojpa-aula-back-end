@@ -17,5 +17,5 @@ Foi desenvolvida uma api (CRUD) utilizando banco de dados em memória H2 para te
 Prof. Adriano Daniel 
 <br>
 
-Prof. Wellington Borsato
+
 
